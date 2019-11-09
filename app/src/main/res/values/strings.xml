@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">liFhViewUtils</string>
+    <string name="tv1">我是第一个控件tv1</string>
+    <string name="views">点击我查看Views</string>
+</resources>

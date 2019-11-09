@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="1dp"
+    tools:context="com.utils.lifh.lifhviewutils.activies.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv1"
+        />
+    <TextView
+        android:id="@+id/tv_tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我是第二个控件tv2"
+        />
+
+    <TextView
+        android:id="@+id/tv_tv_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我是textview3333"
+        />
+    <Button
+        android:id="@+id/btn_btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/views"
+        />
+
+
+</LinearLayout>
